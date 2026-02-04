@@ -13,3 +13,9 @@
   1. split work into chunks (env setup, db design, class design, etc...)
   1. estimate the time for each chunk (based on previous experience)
   1. add some slack for issues that might come up
+
+
+
+
+## Things to explore 
+1. https://12factor.net

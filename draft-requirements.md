@@ -32,7 +32,6 @@ H2Go is a subscription-based water as a service (Waas) application that brings l
 
 ### User Registeration
 - User provides: name, email, phone, password, profile picture (optional).
-- email/phone verification??
 
 ### Provider Registeration
 - Provider provides: business name, email, phone, location.
