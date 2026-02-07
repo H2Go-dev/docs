@@ -25,4 +25,7 @@
 - tested the User CRUD operations using Postman.
 - started dabbling with spring security
 
+# Day 4 (2026-02-07)
+- Suffered with setting up spring security.
+
 
