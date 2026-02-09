@@ -27,5 +27,16 @@
 
 # Day 4 (2026-02-07)
 - Suffered with setting up spring security.
+- finished authentication
+
+# Day 5 (2026-02-08)
+- finally got spring security working with JWT authentication.
+- created the authentication controller for login and registration.
+- Made authorization work.
+
+# Day 6 (2026-02-09)
+- cleaned up authorization code.
+- configured swagger to work with JWT authentication.
+- completed the basic user management module.
 
 
